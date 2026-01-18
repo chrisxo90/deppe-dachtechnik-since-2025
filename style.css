@@ -842,7 +842,7 @@ main {
     max-width: 98vw;
     height: auto;
     aspect-ratio: 5/6;
-    rgba(215, 215, 215, 0.456)
+    rgba(215, 215, 215, 0.456);
   }
   .slider-single-img {
     height: auto;
